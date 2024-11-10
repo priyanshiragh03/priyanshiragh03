@@ -9,11 +9,12 @@ Here are some ideas to get you started:
 - 💻 Enhancing my skills in full-stack web development by building dynamic web applications using React.js and Node.js.
 - 📚 Preparing for academic projects and presentations as part of my B.Tech in Computer Science & Engineering coursework at Vindhya Institute of Technology and Science.
 - 🤝 Collaborating with the training and placement club at my college to assist peers with placement preparations.
-- 🌱 I’m currently learning Mern Stack
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about web development using MERN stack (MongoDB, Express, React, Node.js).
+- 🌱 I’m currently learning the MERN stack.
+- 👯 I’m looking to collaborate on exciting web development projects and open-source contributions.
+- 🤔 I’m looking for help with advanced React patterns and backend optimizations.
+- 💬 Ask me about web development using the MERN stack (MongoDB, Express, React, Node.js).
 - 📫 How to reach me: priyanhiragh03@gmail.com
-- 😄 Pronouns: Tech Enthusiast/she/her
+- 😄 Pronouns: Tech Enthusiast / she / her
+   
 
 
