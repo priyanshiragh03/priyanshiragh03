@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about web development using the MERN stack (MongoDB, Express, React, Node.js).
 - 📫 How to reach me: priyanhiragh03@gmail.com
 - 😄 Pronouns: Tech Enthusiast / she / her
-   
-
-
