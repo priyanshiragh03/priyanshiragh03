@@ -1,6 +1,5 @@
 ##Hi there! 👋 I'm Priyanshi Singh, a driven and passionate B.Tech student specializing in Computer Science & Engineering at Vindhya Institute of Technology and Science, Satna (M.P.). I have a strong foundation and hands-on experience in web development, with proficiency in modern technologies including C/C++, MySQL, JavaScript, React.js, Node.js, and HTML/CSS/Bootstrap. Currently, I am honing my professional skills at Ypsilon IT Solutions Pvt. Ltd., where I am contributing to impactful projects. I am dedicated to continuous learning and eager to collaborate on innovative solutions that push the boundaries of technology. 😊
 
-<!--
 **priyanshiragh03/priyanshiragh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
